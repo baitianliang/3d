@@ -1,0 +1,14 @@
+{
+  "cadURL": "http://data.jthapp.com/kj/bdata/3D/StreamingAssets/HD123.dxf",
+  "cadColor": "#6DAAB5",
+  "arrayActive":1,
+  "text":{
+    "color":"#FF00EF",
+    "size":2
+  },
+  "limit": {
+    "icon": "http://data.jthapp.com/kj/bdata/3D/StreamingAssets/img/Vistor.png",
+    "color": "#00FF2E",
+    "perDis": 1000
+  }
+}

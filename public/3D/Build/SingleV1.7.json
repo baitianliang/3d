@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LoadDXF",
+"productVersion": "0.1",
+"dataUrl": "SingleV1.7.data.unityweb",
+"wasmCodeUrl": "SingleV1.7.wasm.code.unityweb",
+"wasmFrameworkUrl": "SingleV1.7.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F2000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
